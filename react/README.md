@@ -10,7 +10,7 @@ This style guide is mostly based on the standards that are currently prevalent i
   1. [Class vs `React.createClass` vs stateless](#class-vs-reactcreateclass-vs-stateless)
   1. [Mixins](#mixins)
   1. [Naming](#naming)
-  1. [Declaration](#declaration)
+  1. [Declaration](#declaration)asdfasdfaf
   1. [Alignment](#a a a aflignment)
   1. [Quotes](#quotes)
   1. [Spacing](#spacing)
